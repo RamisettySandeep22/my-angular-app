@@ -1,0 +1,33 @@
+.heading{
+    width: 100% ;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+
+h1::first-letter {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+
+  }
+  .first-letter {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Georgia', serif;
+    text-transform: uppercase;
+  }
+  
+  .styled-heading {
+    font-size: 32px;
+    font-family: 'Arial', sans-serif;
+    color:white;
+  }
+  
+  
+  
+  
